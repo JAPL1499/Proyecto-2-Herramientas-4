@@ -14,7 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Proyecto2">
         <activity android:name=".MainActivity4"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait">
+        </activity>
         <activity android:name=".MainActivity3" />
         <activity android:name=".MainActivity2" />
         <activity android:name=".MainActivity">

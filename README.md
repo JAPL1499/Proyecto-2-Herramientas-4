@@ -20,7 +20,7 @@ Proyecto #2 Sensores<br/>
 * Edgar Gutierrez 
 * José Paredes
 
-**Fecha**: 7 de diciembre de 2020
+**Fecha**: 18 de diciembre de 2020
 
 ## Objetivo
 

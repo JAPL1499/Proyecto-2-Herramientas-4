@@ -99,7 +99,7 @@ public class MainActivity3 extends AppCompatActivity {
         });
     }
     public void Siguiente2(View view){
-        Intent siguente2 = new Intent(this, MainActivity3.class);
+        Intent siguente2 = new Intent(this, MainActivity4.class);
         startActivity(siguente2);
     }
 

@@ -39,7 +39,7 @@ Para el desarrollo del siguiente proyecto haremos lo siguiente:
 
 Selecciones 3 del listado.
 
-1. - [ ] Acelerómetro
+1. - [X] Acelerómetro - [Documentación Oficial](https://developer.android.com/guide/topics/sensors/sensors_motion?hl=es-419)
 2. - [ ] Sensor de proximidad
 3. - [ ] Temperatura 
 4. - [X] Huella - [Documentación Oficial](https://developer.android.com/about/versions/marshmallow/android-6.0?hl=es-419#fingerprint-authentication)

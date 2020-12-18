@@ -15,10 +15,10 @@ Proyecto #2 Sensores<br/>
 
 **Estudiantes**:
 
-* Edgar Gutierrez
-* José Paredes
 * Margie Alpirez
 * Ricardo Cuan
+* Edgar Gutierrez 
+* José Paredes
 
 **Fecha**: 7 de diciembre de 2020
 

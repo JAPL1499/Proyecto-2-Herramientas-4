@@ -29,7 +29,7 @@ public class MainActivity4 extends AppCompatActivity {
                     getWindow().getDecorView().setBackgroundColor(Color.BLUE);
 
                 }else{
-                    getWindow().getDecorView().setBackgroundColor(Color.GREEN);
+                    getWindow().getDecorView().setBackgroundColor(Color.YELLOW);
 
                 }
 

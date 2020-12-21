@@ -26,7 +26,7 @@ public class MainActivity4 extends AppCompatActivity {
 
                 if(sensorEvent.values[0]<proximitySensor.getMaximumRange()){
 
-                    getWindow().getDecorView().setBackgroundColor(Color.BLUE);
+                    getWindow().getDecorView().setBackgroundColor(Color.RED);
 
                 }else{
                     getWindow().getDecorView().setBackgroundColor(Color.YELLOW);
